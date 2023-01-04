@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    int i;
-    int j;
+    int i=0;
+    int j=5;
     int sum=i+j;
 
 
